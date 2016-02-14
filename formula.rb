@@ -1,9 +1,9 @@
 class Bartycrouch < Formula
   desc "Incrementally update your Storyboard localizations with ease"
   homepage "https://github.com/Flinesoft/BartyCrouch"
-  url "https://github.com/Flinesoft/BartyCrouch/archive/0.2.2.tar.gz"
-  version "0.2.2"
-  sha256 "af7b598df6069103ca34bb720fc27dbdb087c67dc6b5022a0a73f2f6b47f12d0"
+  url "https://github.com/Flinesoft/BartyCrouch/archive/0.2.4.tar.gz"
+  version "0.2.4"
+  sha256 "a196536a075c75b9f22df80f99e0c4b12dc64b7978224d91d55c2211ba86355c"
 
   depends_on :xcode
 
