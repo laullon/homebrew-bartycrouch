@@ -1,4 +1,4 @@
-class BartyCrouch < Formula
+class Bartycrouch < Formula
   desc "Incrementally update your Storyboard localizations with ease"
   homepage "https://github.com/Flinesoft/BartyCrouch"
   url "https://github.com/Flinesoft/BartyCrouch/archive/0.2.4.tar.gz"
