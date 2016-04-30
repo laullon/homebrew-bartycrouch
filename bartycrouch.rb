@@ -1,9 +1,9 @@
 class Bartycrouch < Formula
   desc "Automatically update/translate your .strings files on build (reacting to Storyboard/XIB changes)"
   homepage "https://github.com/Flinesoft/BartyCrouch"
-  url "https://github.com/Flinesoft/BartyCrouch/archive/1.5.0.tar.gz"
-  version "1.5.0"
-  sha256 "a02058d515044eec3322ee3b58a70cf279d23331b8fabc222abc20e054355d9c"
+  url "https://github.com/Flinesoft/BartyCrouch/archive/2.0.0.tar.gz"
+  version "2.0.0"
+  sha256 "35dcd4ad2c5000c42cfb193f114327d3a41f99bf52baef6a1aae6eea820c7e9c"
 
   depends_on :xcode
 
