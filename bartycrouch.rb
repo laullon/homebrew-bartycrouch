@@ -1,5 +1,5 @@
 class Bartycrouch < Formula
-  desc "Incrementally update your Strings files from .swift, .h, .m, .storyboard or .xib files and use machine-translation."
+  desc "Incrementally update & translate your Strings files."
   homepage "https://github.com/Flinesoft/BartyCrouch"
   url "https://github.com/Flinesoft/BartyCrouch/archive/3.0.0.tar.gz"
   version "3.0.0"
