@@ -1,9 +1,9 @@
 class Bartycrouch < Formula
   desc "Incrementally update & translate your Strings files."
   homepage "https://github.com/Flinesoft/BartyCrouch"
-  url "https://github.com/Flinesoft/BartyCrouch/archive/3.2.0.tar.gz"
-  version "3.2.0"
-  sha256 "5cff4a6c5c4ec955157845eca5d1a2fc98a7aaa13c8961119ae81a97642c4872"
+  url "https://github.com/Flinesoft/BartyCrouch/archive/3.2.1.tar.gz"
+  version "3.2.1"
+  sha256 "d0222843bec8bc2399f74613411d515dcd71d2dad1c9cddfba5381f6b35eb18d"
 
   depends_on :xcode
 
