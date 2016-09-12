@@ -13,6 +13,7 @@ class Bartycrouch < Formula
                "SYMROOT=build",
                "DSTROOT=#{prefix}",
                "INSTALL_PATH=/bin",
+               "SWIFT_VERSION=2.3",
                "-verbose",
                "install"
   end
